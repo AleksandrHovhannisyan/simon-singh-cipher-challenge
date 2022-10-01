@@ -1,0 +1,14 @@
+{
+  "name": "singh-cipher-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AleksandrHovhannisyan/simon-singh-cipher-challenge",
+  "author": "AleksandrHovhannisyan <aleksandrhovhannisyan@gmail.com>",
+  "license": "I don't care, copy pasta away",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.7.1"
+  }
+}
