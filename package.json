@@ -1,7 +1,7 @@
 {
   "name": "singh-cipher-challenge",
   "version": "1.0.0",
-  "main": "index.js",
+  "type": "module",
   "repository": "git@github.com:AleksandrHovhannisyan/simon-singh-cipher-challenge",
   "author": "AleksandrHovhannisyan <aleksandrhovhannisyan@gmail.com>",
   "license": "I don't care, copy pasta away",

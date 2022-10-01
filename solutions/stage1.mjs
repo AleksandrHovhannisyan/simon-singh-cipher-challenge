@@ -1,4 +1,4 @@
-import { substitute } from "../utils";
+import { substitute } from '../utils';
 
 // Stage 1: Simple Monoalphabetic Substitution Cipher
 // https://simonsingh.net/cryptography/cipher-challenge/the-ciphertexts/stage-1/
